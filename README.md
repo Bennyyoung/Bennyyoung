@@ -1,5 +1,4 @@
 # Benjamin Effiong 👋
----
 
 Benjamin is a Senior Frontend Software Engineer (Javascript, React, and TypeScript), he is also very passionate about Tech, and Mentorship. He has over 6 years experience planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups.
 
@@ -16,20 +15,18 @@ My scope of work has always evolved in building projects and are mostly contract
 🤔 Find out about my job experiences on https://www.linkedin.com/in/benjamin-effiong-b4963512a/
 
 ## Skills and Experience
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
 
----
-
-* ⚛️ React
-* ⚛️ React Hooks
-* ⚛️ Redux Toolkit
-* 🉑 GitHub, Git, Node, Express, and MongoDB
-* 💻 HTML, Tailwind, Styled-Component, JS and TS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennyyoung&show_icons=true&count_private=true)  
 
-**Technologies and Tools**
+**Currently working at:**
+Zuri Health
 
----
+
+**Technologies and Tools**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyyoung&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
