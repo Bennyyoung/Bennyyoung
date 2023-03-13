@@ -1,3 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/benjamin-effiong-b4963512a/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/EffiongBenjami2">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+
 # Benjamin Effiong 👋
 
 ### 👨‍💻 About Me :
@@ -8,7 +20,7 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
 
 - :zap: In my free time, I solve problems on Leetcode and Codewars.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
+- :mailbox:My Works can be found here: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
 
 ---
 
