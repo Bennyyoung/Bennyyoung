@@ -2,15 +2,18 @@
 
 ### Benjamin Effiong 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+---
 
 **Benjamin is very passionate about Tech, and Mentorship. He has over 7 years experience planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups.**
 
 **Benjamin has interesting experience in public speaking and software engineering.** 
 
 🤔 Find out about my job experiences on https://www.linkedin.com/in/benjamin-effiong-b4963512a/
+
+##Skills and Experience
+---
+
+* :atom
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennyyoung&show_icons=true&count_private=true)  
 
