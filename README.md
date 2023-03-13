@@ -12,10 +12,11 @@
 
 🤔 Find out about my job experiences on (https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennyyoung)](https://github.com/anuraghazra/github-readme-stats)
+[![Bennyyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennyyoung)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **Technologies and Tools**
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyyoung&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Bennyyoung/Bennyyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
