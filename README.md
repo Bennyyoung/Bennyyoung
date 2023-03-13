@@ -1,4 +1,4 @@
-![Tech picture](https://www.facebook.com/photo/?fbid=2963707660537118&set=a.1522742557966976)
+![Tech picture](https://scontent-los2-1.xx.fbcdn.net/v/t1.6435-9/206188532_2963707663870451_5706203168588175500_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=sTclq7bJn-YAX9Knj8n&_nc_oc=AQmINvGQUa1l-SERlhzDLhZC4hT5y_WE8LzXnCtzSSumxs2UpEiIlT6v6OmEGS-1wYA&_nc_ht=scontent-los2-1.xx&oh=00_AfBghEh1LK47M_21KbLqs5f5HYSBd5CZgxut-N0aN11MIA&oe=6436DC15)
 
 ### Benjamin Effiong 👋
 
