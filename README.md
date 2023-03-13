@@ -22,6 +22,10 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Bennyyoung)  
 
+**GitHub Streak**
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Bennyyoung)  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bennyyoung)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Bennyyoung/Bennyyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
