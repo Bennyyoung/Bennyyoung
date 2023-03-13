@@ -6,6 +6,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+Benjamin is very passionate about Tech, and Mentorship. He has over 7 years experience planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups. 
+
+Benjamin has interesting experience in public speaking and software engineering 
 <!--
 **Bennyyoung/Bennyyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
