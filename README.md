@@ -13,12 +13,12 @@
 # Hi, I'm Benjamin Effiong 👋
 
 ### 👨‍💻 About Me :
-I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Frontend Engineer and contributing to Zuri Health Web, and Admin Dashboard. 
+I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria with over 6 years experience.
+- 💼 I’m working as a Frontend Engineer at [Zuri Health](https://zuri.health/) and contributing to Zuri Health Web, and Admin Dashboard. 
 
 - :seedling: Working as Senior Frontend Engineer for Raktech Group.
 
-- :zap: In my free time, I solve problems on Leetcode and Codewars.
+- :zap: In my free time, I solve problems on [Leetcode](https://leetcode.com/Bennyyoung/) and [Codewars](https://www.codewars.com/users/Bennyyoung).
 
 - :mailbox: My Works can be found here: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
 
@@ -41,13 +41,13 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
 
 **Currently working/worked at:**
 
-- Zuri Health (https://zuri.health/)
+- [Zuri Health](https://zuri.health/)
 - Ex Tech Pet (http://www.techpetgloballtd.com/)
 - Ex Decadev (https://decagonhq.com/)
 
 **Volunteer Experience:**
 
-- GDG Port Harcourt(https://gdg.community.dev/gdg-port-harcourt/)
+- [GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
 
 ---
 
