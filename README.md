@@ -8,7 +8,9 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
 
 - :zap: In my free time, I solve problems on Leetcode and Codewars.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/benjamin-effiong-b4963512a/])
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -23,23 +25,36 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode"  alt="VScode" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+**Currently working/worked at:**
+
+- Zuri Health (https://zuri.health/)
+- Ex Tech Pet (http://www.techpetgloballtd.com/)
+- Ex Decadev (https://decagonhq.com/)
+
+**Volunteer Experience:**
+
+- GDG Port Harcourt(https://gdg.community.dev/gdg-port-harcourt/)
+
+---
+
 ### :fire: My Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennyyoung&show_icons=true&count_private=true)  
-
-**Currently working at:**
-Zuri Health(https://zuri.health/)
 
 
 **Technologies and Tools**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyyoung&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
-**Github Metrics**
+### :fire: Github Metrics :
 
 ![GitHub metrics](https://metrics.lecoq.io/Bennyyoung)  
 
-**GitHub Streak**
+---
+
+### :fire: GitHub Streak
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Bennyyoung)  
 
