@@ -10,10 +10,9 @@
 
 **Benjamin has interesting experience in public speaking and software engineering.** 
 
-🤔 Find out about my job experiences on (https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
+🤔 Find out about my job experiences on https://www.linkedin.com/in/benjamin-effiong-b4963512a/
 
-[![Bennyyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennyyoung)](https://github.com/anuraghazra/github-readme-stats)
-
+![Bennyyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennyyoung&show_icons=true&theme=radical)
 
 **Technologies and Tools**
 
