@@ -41,7 +41,7 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
 
 ---
 
-**Currently working/worked at:**
+### 👨‍💻 Currently working/worked at:
 
 - Contributing to the Codebase of a Legal tech app which is soon to lunch **(Feb 2023 - Date · 2 mo)**
 - Fixing the Codebase of an Ecommerce app called [Juciparo](https://juciparo.com/) **(Feb 27 2023 - 18th March 2023 · 3 weeks)**
@@ -50,7 +50,7 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
 - Ex Decadev (https://decagonhq.com/) **(Mar 2022 - Mar 2023 · 1 yr 1 mo)**
 - Personal Projects, and Start-up ideas can be found [here](https://linktr.ee/bloomhubng) **(Jan 2016 - Date)**
 
-**Volunteer Experience:**
+### 💼 Volunteer Experience:
 
 - [GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
 
