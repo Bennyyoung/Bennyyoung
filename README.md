@@ -10,7 +10,7 @@
   </div>
 </div>
 
-# Benjamin Effiong 👋
+# Hi, I'm Benjamin Effiong 👋
 
 ### 👨‍💻 About Me :
 I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
