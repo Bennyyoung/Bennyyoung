@@ -4,9 +4,9 @@
 
 ---
 
-**Benjamin is very passionate about Tech, and Mentorship. He has over 7 years experience planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups.**
+Benjamin is a Senior Frontend Software Engineer (Javascript, React, and TypeScript), he is also very passionate about Tech, and Mentorship. He has over 6 years experience planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups.
 
-**Benjamin has interesting experience in public speaking and software engineering.** 
+Benjamin has interesting experience in public speaking and software engineering.
 
 🤔 Find out about my job experiences on https://www.linkedin.com/in/benjamin-effiong-b4963512a/
 
