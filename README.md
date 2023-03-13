@@ -1,5 +1,3 @@
-![Tech picture](https://scontent-los2-1.xx.fbcdn.net/v/t1.6435-9/206188532_2963707663870451_5706203168588175500_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=sTclq7bJn-YAX9Knj8n&_nc_oc=AQmINvGQUa1l-SERlhzDLhZC4hT5y_WE8LzXnCtzSSumxs2UpEiIlT6v6OmEGS-1wYA&_nc_ht=scontent-los2-1.xx&oh=00_AfBghEh1LK47M_21KbLqs5f5HYSBd5CZgxut-N0aN11MIA&oe=6436DC15)
-
 ### Hey, I'm Benjamin Effiong 👋
 
 ---
@@ -8,6 +6,11 @@ Benjamin is a Senior Frontend Software Engineer (Javascript, React, and TypeScri
 
 Benjamin has interesting experience in public speaking and software engineering.
 
+My scope of work has always evolved in building projects and is mostly contracts. And this has empowered my React skills to their peak because I’ve got to work on real-life projects within a short period of time in my roles.
+1.) REACT(3rd Party) STATE MANAGEMENT: Valtio, Jotai, Zustand, and Redux toolkit.
+2.) NATIVE STATE MANAGEMENT IN REACT: useState, useReducer, useContext, useMemo, useCallback
+3.) PROJECT MANAGEMENT TOOLS: JIRA, ClickUp, and Project boards on GitHub.
+
 🤔 Find out about my job experiences on https://www.linkedin.com/in/benjamin-effiong-b4963512a/
 
 ## Skills and Experience
@@ -15,7 +18,10 @@ Benjamin has interesting experience in public speaking and software engineering.
 ---
 
 * ⚛️ React
-* 💻 HTML, CSS, JS and TS
+* ⚛️ React Hooks
+* ⚛️ Redux Toolkit
+* 🉑 GitHub, Git, Node, Express, and MongoDB
+* 💻 HTML, Tailwind, Styled-Component, JS and TS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennyyoung&show_icons=true&count_private=true)  
 
