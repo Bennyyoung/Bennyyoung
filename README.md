@@ -12,7 +12,7 @@
 
 🤔 Find out about my job experiences on https://www.linkedin.com/in/benjamin-effiong-b4963512a/
 
-![Bennyyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennyyoung&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennyyoung&show_icons=true&count_private=true)  
 
 **Technologies and Tools**
 
