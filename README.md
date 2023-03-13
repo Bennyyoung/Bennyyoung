@@ -1,4 +1,4 @@
-### Hey, I'm Benjamin Effiong 👋
+# Benjamin Effiong 👋
 
 ---
 
@@ -6,7 +6,7 @@ Benjamin is a Senior Frontend Software Engineer (Javascript, React, and TypeScri
 
 Benjamin has interesting experience in public speaking and software engineering.
 
-My scope of work has always evolved in building projects and is mostly contracts. And this has empowered my React skills to their peak because I’ve got to work on real-life projects within a short period of time in my roles.
+My scope of work has always evolved in building projects and are mostly contracts. And this has empowered my React skills to their peak because I’ve got to work on real-life projects within a short period of time in my roles.
 
 1.) REACT(3rd Party) STATE MANAGEMENT: Valtio, Jotai, Zustand, and Redux toolkit.
 
