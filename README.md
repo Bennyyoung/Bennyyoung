@@ -1,4 +1,4 @@
-![Tech picture](https://media.licdn.com/dms/image/D4D03AQHj510FJK7uUw/profile-displayphoto-shrink_200_200/0/1672092266016?e=1684368000&v=beta&t=Y7ZmXIjzI9lMnfyJpSRa-ODSvOznkLEnix-hpoZxl_g)
+![Tech picture](https://www.facebook.com/photo/?fbid=2963707660537118&set=a.1522742557966976)
 
 ### Benjamin Effiong 👋
 
