@@ -41,6 +41,9 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
 
 **Currently working/worked at:**
 
+- Working on a legal tech app, and soon to lunch
+- Maintaning and Bug fixes on an Ecommerce app called [Juciparo](https://juciparo.com/)
+- Personal Projects, and Start-up ideas can be found [here](https://linktr.ee/bloomhubng)
 - [Zuri Health](https://zuri.health/)
 - Ex Tech Pet (http://www.techpetgloballtd.com/)
 - Ex Decadev (https://decagonhq.com/)
