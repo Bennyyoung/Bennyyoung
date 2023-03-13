@@ -22,6 +22,8 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
 
 - :mailbox: My Works can be found here: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
 
+- What do you need my [CV](https://github.com/Bennyyoung/Bennyyoung/blob/main/Benjamin%20Effiong%20CV_React%20Engineer.pdf) for 
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
