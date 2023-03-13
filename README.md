@@ -14,13 +14,13 @@
 
 ### 👨‍💻 About Me :
 I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to Zuri Health Web, and Admin Dashboard.
+- :telescope: I’m working as a Frontend Engineer and contributing to Zuri Health Web, and Admin Dashboard. 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Working as Senior Frontend Engineer for Raktech Group.
 
 - :zap: In my free time, I solve problems on Leetcode and Codewars.
 
-- :mailbox:My Works can be found here: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
+- :mailbox: My Works can be found here: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
 
 ---
 
