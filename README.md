@@ -1,5 +1,4 @@
 # Benjamin Effiong 👋
-
 ---
 
 Benjamin is a Senior Frontend Software Engineer (Javascript, React, and TypeScript), he is also very passionate about Tech, and Mentorship. He has over 6 years experience planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups.
