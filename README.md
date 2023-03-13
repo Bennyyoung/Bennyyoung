@@ -1,24 +1,27 @@
 # Benjamin Effiong 👋
 
-Benjamin is a Senior Frontend Software Engineer (Javascript, React, and TypeScript), he is also very passionate about Tech, and Mentorship. He has over 6 years experience planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups.
+### 👨‍💻 About Me :
+I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m working as a Software Engineer and contributing to Zuri Health Web, and Admin Dashboard.
 
-Benjamin has interesting experience in public speaking and software engineering.
+- :seedling: Exploring Technical Content Writing.
 
-My scope of work has always evolved in building projects and are mostly contracts. And this has empowered my React skills to their peak because I’ve got to work on real-life projects within a short period of time in my roles.
+- :zap: In my free time, I solve problems on Leetcode and Codewars.
 
-1.) REACT(3rd Party) STATE MANAGEMENT: Valtio, Jotai, Zustand, and Redux toolkit.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/benjamin-effiong-b4963512a/))
 
-2.) NATIVE STATE MANAGEMENT IN REACT: useState, useReducer, useContext, useMemo, useCallback.
-
-3.) PROJECT MANAGEMENT TOOLS: JIRA, ClickUp, and Project boards on GitHub.
-
-🤔 Find out about my job experiences on https://www.linkedin.com/in/benjamin-effiong-b4963512a/
-
-## Skills and Experience
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
 </div>
 
+### :fire: My Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennyyoung&show_icons=true&count_private=true)  
 
