@@ -43,8 +43,8 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
 
 **Currently working/worked at:**
 
-- Working on a legal tech app, and soon to lunch (Feb 2023 - Date · 2 mo)
-- Maintaining and Bug fixes on an Ecommerce app called [Juciparo](https://juciparo.com/) (Feb 27 2023 - 18th March 2023 · 3 weeks)
+- Contributing to the Codebase of a Legal tech app which is soon to lunch (Feb 2023 - Date · 2 mo)
+- Fixing the Codebase of an Ecommerce app called [Juciparo](https://juciparo.com/) (Feb 27 2023 - 18th March 2023 · 3 weeks)
 - [Zuri Health](https://zuri.health/) Start-up (Nov 2022 - Present · 5 mos)
 - Ex Tech Pet (http://www.techpetgloballtd.com/) (Dec 2021 - Dec 2022 · 1 yr 1 mo)
 - Ex Decadev (https://decagonhq.com/) (Mar 2022 - Mar 2023 · 1 yr 1 mo)
