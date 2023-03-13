@@ -1,4 +1,4 @@
-![Tech picture] (https://user-images.githubusercontent.com/6759031/140734194-2f2f30a0-d311-44e5-872d-10657f9c82c7.png)
+![Tech picture](https://user-images.githubusercontent.com/6759031/140734194-2f2f30a0-d311-44e5-872d-10657f9c82c7.png)
 
 ### Hi there, I'm Benjamin 👋
 
