@@ -10,9 +10,12 @@
 
 **Benjamin has interesting experience in public speaking and software engineering. ** 
 
-🤔 Find out about my job experiences on [LinkedIn](https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
+🤔 Find out about my job experiences on (https://www.linkedin.com/in/benjamin-effiong-b4963512a/)
 
-Technologies and Tools
+**Technologies and Tools**
+<div id="header" style="display: flex;">
+  <img alt="Custom badge" src="https://img.shields.io/endpoint?label=ReactJS">
+</div>
 <!--
 **Bennyyoung/Bennyyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
