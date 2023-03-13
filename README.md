@@ -7,8 +7,11 @@ Benjamin is a Senior Frontend Software Engineer (Javascript, React, and TypeScri
 Benjamin has interesting experience in public speaking and software engineering.
 
 My scope of work has always evolved in building projects and is mostly contracts. And this has empowered my React skills to their peak because I’ve got to work on real-life projects within a short period of time in my roles.
+
 1.) REACT(3rd Party) STATE MANAGEMENT: Valtio, Jotai, Zustand, and Redux toolkit.
-2.) NATIVE STATE MANAGEMENT IN REACT: useState, useReducer, useContext, useMemo, useCallback
+
+2.) NATIVE STATE MANAGEMENT IN REACT: useState, useReducer, useContext, useMemo, useCallback.
+
 3.) PROJECT MANAGEMENT TOOLS: JIRA, ClickUp, and Project boards on GitHub.
 
 🤔 Find out about my job experiences on https://www.linkedin.com/in/benjamin-effiong-b4963512a/
