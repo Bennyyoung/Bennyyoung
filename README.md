@@ -14,9 +14,12 @@
 
 ### 👨‍💻 About Me :
 I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria with over 6 years experience.
-- 💼 I’m working as a Frontend Engineer at [Zuri Health](https://zuri.health/) and contributing to Zuri Health Web, and Admin Dashboard. 
 
-- :seedling: Working as Senior Frontend Engineer for Raktech Group.
+- 💼 I’m working as a Senior Frontend Developer at [Pericius](https://www.pericius.com/) and contributing to their DPRM Project. 
+
+- 💼 Worked as a Frontend Engineer at [Zuri Health](https://zuri.health/) and contributed to Zuri Health Web, and Admin Dashboard. 
+
+- :seedling: Worked as Senior Frontend Engineer for Raktech Group.
 
 - :zap: In my free time, I solve problems on [Leetcode](https://leetcode.com/Bennyyoung/) and [Codewars](https://www.codewars.com/users/Bennyyoung).
 
