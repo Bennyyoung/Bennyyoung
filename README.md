@@ -46,6 +46,7 @@ I am a Senior Frontend Software Engineer <img src="https://media.giphy.com/media
 
 ### 👨‍💻 Currently working/worked at:
 
+- Working on the Codebase of a DPRM, implementing Spinners on every button **(April 3rd 2023 - Present)**
 - Contributing to the Codebase of a Legal tech app which is soon to lunch **(Feb 2023 - Date · 2 mo)**
 - Fixing the Codebase of an Ecommerce app called [Juciparo](https://juciparo.com/) **(Feb 27 2023 - 18th March 2023 · 3 weeks)**
 - [Zuri Health](https://zuri.health/) Start-up **(Nov 2022 - Present · 5 mos)**
